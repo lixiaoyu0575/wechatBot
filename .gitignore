@@ -1,0 +1,6 @@
+# Dependency directory
+node_modules
+# IDE recorder
+.idea
+# release version
+dist
